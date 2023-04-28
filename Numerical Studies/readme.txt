@@ -16,7 +16,7 @@ The required packages are:
 # Specify your data and output directory
 cd(".../.../additive model/Data and BSpline basis/correlated normal predictors")
 
-2)knotsxxxxxxx.csv are B-spline basis matrix. You can generated on your own using the Julia code under github folder 'BMIAM/Numerical Studies/6 predictors/Generate B-splines basis function matrix by calling R package using RCall.jl'. Please keep in mind this B-spline basis matrix is required to be at the same location of the data source folder.
+2)knotsxxxxxxx.csv files are B-spline basis matrix. They have already been provided. You can generated on your own using the Julia code under github folder 'BMIAM/Numerical Studies/6 predictors/Generate B-splines basis function matrix by calling R package using RCall.jl'. Please keep in mind this B-spline basis matrix is required to be at the same location of the data source folder.
 
 
 
